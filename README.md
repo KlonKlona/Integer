@@ -1,2 +1,3 @@
 # Integer
-Integer Calculus
+Integer Calculus with parrarel computing
+Amazon Web Services
